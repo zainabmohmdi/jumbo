@@ -1,0 +1,28 @@
+{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color: rgb(255, 0, 0, 0.2);
+	width:100%;
+}
+.container input{
+	margin: 15%;
+	background-color: rgb(60, 60, 60, 0.5);
+	height: 50px;
+	width: 20%;
+	position: absolute;
+	border:none;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+/*input{
+	background-color: rgb(60, 60, 60, 0.5);
+	margin: 15px;
+	width:85px;
+	height:25px;
+	display: block;
+	position: absolute;
+}*/
